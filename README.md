@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm John and I'm learning how to code 🌱
-I'm interested in ML, Networks, and Distributed Systems ⚡
+I'm John and I'm learning how to code 🌱  
+I'm interested in ML, Networks, and Distributed Systems ⚡  
 
 ![Snake animation](https://raw.githubusercontent.com/HaojiongZhang/HaojiongZhang/output/github-contribution-grid-snake.svg)
 
